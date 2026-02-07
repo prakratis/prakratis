@@ -1,16 +1,13 @@
-## Hi there 👋
+# prakratis
 
-<!--
-**prakratis/prakratis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building scalable management systems and core backend architecture.
 
-Here are some ideas to get you started:
+### Technical Proficiency
+* **Languages:** Java (SE/EE), Python, JavaScript, SQL
+* **Frameworks & Tools:** Django, React, Git, JDBC
+* **Specializations:** Enterprise Application Development, Data Structures, System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Initiatives
+* **Full-Stack Development:** Architecting a comprehensive Real Estate platform using Django Core.
+* **Enterprise Java:** Implementing advanced patterns in Java EE for bank and student management systems.
+* **Algorithmic Rigor:** Progressing through a 100-day intensive focus on algorithm optimization and complexity analysis.
