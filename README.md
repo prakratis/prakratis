@@ -4,7 +4,7 @@ Software Developer focused on building scalable management systems and **core ba
 
 ###  Technical Proficiency
 * **Languages:** Java (SE/EE), Python, JavaScript, SQL
-* **Frameworks & Tools:** Django, React, Git (Internal Architecture), JDBC
+* **Frameworks & Tools:** Django, React, JDBC
 * **Specializations:** Enterprise Application Development, System Internals, Data Structures
 
 ###  Featured Project: Simple-VCS-Python
@@ -19,4 +19,4 @@ I recently built a custom **Version Control System** from scratch to deeply unde
 * **Algorithmic Rigor:** Progressing through a 100-day intensive focus on algorithm optimization and complexity analysis.
 
 ---
-*“Building tools that manage other tools.”*
+
