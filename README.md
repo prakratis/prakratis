@@ -19,5 +19,5 @@ I developed a custom Version Control System to gain a comprehensive understandin
 * **Workspace Restoration:** Engineered a rollback mechanism to accurately revert the workspace to any previous commit state.
 
 ---
-📫 **Connect with me:** [LinkedIn](your-linkedin-link) | [Portfolio](your-portfolio-link)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s-6752a5226/) 
 
