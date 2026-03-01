@@ -1,4 +1,4 @@
-# prakratis
+# prakrati saxena
 
 Software Developer specializing in the architecture and internal mechanics of scalable systems. I focus on bridging the gap between high-level backend logic and performance-driven implementation.
 
