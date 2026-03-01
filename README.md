@@ -1,6 +1,7 @@
 # prakratis
 
-Software Developer specializing in the architecture and internal mechanics of scalable systems. My work focuses on bridging the gap between high-level backend logic and efficient, performance-driven implementation.
+Software Developer specializing in the architecture and internal mechanics of scalable systems.
+My work focuses on bridging the gap between high-level backend logic and efficient, performance-driven implementation.
 
 ### Technical Proficiency
 * **Languages:** Python, Java (SE/EE), JavaScript, SQL
