@@ -3,7 +3,9 @@
 I am a Software Developer specializing in the architecture and internal mechanics of scalable systems. My work focuses on bridging the gap between high-level backend logic and efficient, performance-driven implementation.
 
 ### Technical Proficiency
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+* **Languages:** Python, Java (SE/EE), JavaScript, SQL
+* **Frameworks & Tools:** FastAPI, Django, React, JDBC
+* **Specializations:** Enterprise Application Development, System Internals, Data Structures
 
 ### Current Initiatives
 * **Daily Affirmations:** Developing a full-stack application leveraging FastAPI and React to deliver a mood-aware user experience backed by a high-performance API.
