@@ -1,23 +1,22 @@
 # prakratis
 
-Software Developer specializing in the architecture and internal mechanics of scalable systems.
-My work focuses on bridging the gap between high-level backend logic and efficient, performance-driven implementation.
+Software Developer specializing in the architecture and internal mechanics of scalable systems. I focus on bridging the gap between high-level backend logic and performance-driven implementation.
 
 ### Technical Proficiency
 * **Languages:** Python, Java (SE/EE), JavaScript, SQL
-* **Frameworks & Tools:** FastAPI, Django, React, JDBC
-* **Specializations:** Enterprise Application Development, System Internals, Data Structures
+* **Frameworks:** FastAPI, Django, React, JDBC
+* **Core:** System Internals, Data Structures, Enterprise Design
 
-### Current Initiatives
-* **Daily Affirmations:** Developing a full-stack application leveraging FastAPI and React to deliver a mood-aware user experience backed by a high-performance API.
-* **Enterprise Architecture:** Designing a comprehensive real estate management platform using Django Core, with an emphasis on data integrity and modular system design.
-* **Algorithmic Analysis:** Dedicated to a 100-day intensive study of algorithm optimization and complexity analysis to refine system performance.
+### Current Projects
+* **Daily Affirmations:** Full-stack mood-aware engine built with FastAPI and React.
+* **Enterprise Architecture:** Real estate platform focused on data integrity and modularity.
+* **100-Day Algos:** Intensive study of algorithm optimization and complexity analysis.
 
-### Featured Project: [Simple-VCS-Python](https://github.com/prakratis/Simple-VCS-Python)
-I developed a custom Version Control System to gain a comprehensive understanding of content-addressable storage and Git internals.
-* **Immutable State:** Utilized binary serialization to manage directory snapshots and project history.
-* **Data Integrity:** Implemented a hashing engine based on SHA-256 to ensure secure and unique file tracking.
-* **Workspace Restoration:** Engineered a rollback mechanism to accurately revert the workspace to any previous commit state.
+### Featured: [Simple-VCS-Python](https://github.com/prakratis/Simple-VCS-Python)
+A custom Version Control System built to master Git internals and content-addressable storage.
+* **Immutable State:** Binary serialization for directory snapshots.
+* **Data Integrity:** SHA-256 hashing engine for secure file tracking.
+* **Rollback Engine:** Workspace restoration to any previous commit state.
 
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s-6752a5226/) 
