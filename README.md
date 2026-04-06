@@ -19,5 +19,8 @@ A custom Version Control System built to master Git internals and content-addres
 * **Rollback Engine:** Workspace restoration to any previous commit state.
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s-6752a5226/) 
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s/) 
+                         [LeetCode](https://leetcode.com/u/prakratis/) 
+              
+                         
 
