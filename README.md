@@ -27,14 +27,6 @@ Software Developer specializing in the architecture of internal systems. I focus
 * **Persistence Layer:** Integrated SQLAlchemy with optimized indexing for high-speed link redirection.
 * **Aesthetic Engineering:** Developed a Glassmorphism UI using advanced CSS backdrop filters and asynchronous API calls.
 
----
-
-### Ongoing Initiatives
-
-* **Enterprise Real Estate Engine:** Designing a modular platform emphasizing data integrity and complex relational constraints using Django.
-* **100-Day Algorithm Sprint:** Daily deep-dives into complexity analysis and advanced problem-solving (LeetCode Medium/Hard).
-
----
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s/) 
                          [LeetCode](https://leetcode.com/u/prakratis/) 
