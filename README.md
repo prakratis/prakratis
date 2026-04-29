@@ -1,24 +1,41 @@
-# prakrati saxena
+# Prakrati Saxena
+**Backend Engineer | System Internals & Scalable Architectures**
 
-Software Developer specializing in the architecture and internal mechanics of scalable systems. I focus on bridging the gap between high-level backend logic and performance-driven implementation.
-
-### Technical Proficiency
-* **Languages:** Python, Java (SE/EE), JavaScript, SQL
-* **Frameworks:** FastAPI, Django, React, JDBC
-* **Core:** System Internals, Data Structures, Enterprise Design
-
-### Current Projects
-* **Daily Affirmations:** Full-stack mood-aware engine built with FastAPI and React.
-* **Enterprise Architecture:** Real estate platform focused on data integrity and modularity.
-* **100-Day Algos:** Intensive study of algorithm optimization and complexity analysis.
-
-### Featured: [Simple-VCS-Python](https://github.com/prakratis/Simple-VCS-Python)
-A custom Version Control System built to master Git internals and content-addressable storage.
-* **Immutable State:** Binary serialization for directory snapshots.
-* **Data Integrity:** SHA-256 hashing engine for secure file tracking.
-* **Rollback Engine:** Workspace restoration to any previous commit state.
+Software Developer specializing in the architecture of internal systems. I focus on bridging the gap between high-level logic and performance-driven implementation through content-addressable storage, custom version control, and asynchronous API design.
 
 ---
+
+### Technical Proficiency
+
+* **Languages:** Python, Java (SE/EE), SQL (PostgreSQL, MySQL), JavaScript
+* **Frameworks:** FastAPI (Async), Django Core, React, JDBC
+* **Specialties:** System Internals, Database Architecture, Algorithm Optimization
+
+---
+
+### Featured Projects
+
+#### [Simple-VCS-Python](https://github.com/prakratis/Simple-VCS-Python)
+*Custom Version Control System focused on Git-inspired content-addressable storage.*
+* **State Immutability:** Engineered a binary serialization engine for atomic directory snapshots.
+* **Integrity Layer:** Implemented SHA-256 hashing for deduplication and secure file tracking.
+* **Rollback Engine:** Designed restoration logic to revert workspaces to specific temporal states.
+
+#### [URL-Shortener-FastAPI-Glam](https://github.com/prakratis/URL-Shortener-FastAPI-Glam)
+*High-performance URL management service with environment-aware redirection.*
+* **Dynamic Resolution:** Developed request-aware logic to handle cross-environment base URL generation.
+* **Persistence Layer:** Integrated SQLAlchemy with optimized indexing for high-speed link redirection.
+* **Aesthetic Engineering:** Developed a Glassmorphism UI using advanced CSS backdrop filters and asynchronous API calls.
+
+---
+
+### Ongoing Initiatives
+
+* **Enterprise Real Estate Engine:** Designing a modular platform emphasizing data integrity and complex relational constraints using Django.
+* **100-Day Algorithm Sprint:** Daily deep-dives into complexity analysis and advanced problem-solving (LeetCode Medium/Hard).
+
+---
+
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/prakrati-s/) 
                          [LeetCode](https://leetcode.com/u/prakratis/) 
               
